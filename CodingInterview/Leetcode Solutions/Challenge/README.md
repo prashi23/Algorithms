@@ -1,4 +1,4 @@
-# LeetCode
+
 5 LeetCode problems per day and commplete this challenge hopefully! 
 
 ## Schedule
