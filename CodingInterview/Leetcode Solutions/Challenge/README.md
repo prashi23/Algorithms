@@ -2,16 +2,16 @@
 5 LeetCode problems per day and commplete this challenge hopefully! 
 
 ## Schedule
-- [ ] ****: [Palindrome Number](https://leetcode.com/problems/palindrome-number/) - Easy
-- [ ] **          **: [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) - Easy
-- [ ] ****: [To Lower Case](https://leetcode.com/problems/to-lower-case/) - Easy
-- [ ] ****: [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) - Easy
-- [ ] ****: [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) - Easy
-- [ ] ****: [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) - Medium
-- [ ] ****: [N-Repeated Element in size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) - Easy
-- [ ] ****: [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) - Easy
-- [ ] ****: [Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity/) - Easy
-- [ ] ****: [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) - Easy
+- [x] **19/03/2020**: [Palindrome Number](https://leetcode.com/problems/palindrome-number/) - Easy
+- [x] **19/03/2020**: [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) - Easy
+- [x] **19/03/20202**: [To Lower Case](https://leetcode.com/problems/to-lower-case/) - Easy
+- [x] **19/03/2020**: [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) - Easy
+- [x] **19/03/2020**: [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) - Easy
+- [ ] **20/03/2020**: [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) - Medium
+- [ ] **20/03/20202**: [N-Repeated Element in size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) - Easy
+- [ ] **20/03/20202**: [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) - Easy
+- [ ] **20/03/2020**: [Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity/) - Easy
+- [ ] **20/03/2020**: [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) - Easy
 - [ ] ****: [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) - Easy
 - [ ] ****: [Hamming Distance](https://leetcode.com/problems/hamming-distance) - Easy
 - [ ] ****: [DI String Match](https://leetcode.com/problems/di-string-match) - Easy
