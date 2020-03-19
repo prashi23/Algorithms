@@ -7,11 +7,22 @@
 - [x] **19/03/20202**: [To Lower Case](https://leetcode.com/problems/to-lower-case/) - Easy
 - [x] **19/03/2020**: [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) - Easy
 - [x] **19/03/2020**: [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) - Easy
-- [ ] **20/03/2020**: [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) - Medium
-- [ ] **20/03/20202**: [N-Repeated Element in size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) - Easy
-- [ ] **20/03/20202**: [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) - Easy
-- [ ] **20/03/2020**: [Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity/) - Easy
-- [ ] **20/03/2020**: [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) - Easy
+- [ ]  **20/03/2020**: [Two Sum](https://leetcode.com/problems/two-sum/)
+- [ ] **20/02/2020**: [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [ ] **20/02/20202**: [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [ ] **20/02/2020**: [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+- [ ] **20/02/2020**: [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+- [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+- [ ] [Find Minimum in Rotated Sorted Array]: (https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- [ ] [Search in Rotated Sorted Array]: (https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [ ] [3Sum]:  (https://leetcode.com/problems/3sum/)
+- [ ] [Container With Most Water]: (https://leetcode.com/problems/container-with-most-water/)
+
+- [ ] ****: [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) - Medium
+- [ ] ****: [N-Repeated Element in size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) - Easy
+- [ ] ****: [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) - Easy
+- [ ] ****: [Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity/) - Easy
+- [ ] ****: [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) - Easy
 - [ ] ****: [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) - Easy
 - [ ] ****: [Hamming Distance](https://leetcode.com/problems/hamming-distance) - Easy
 - [ ] ****: [DI String Match](https://leetcode.com/problems/di-string-match) - Easy
