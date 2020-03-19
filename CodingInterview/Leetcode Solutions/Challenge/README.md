@@ -6,9 +6,9 @@
 - [x] **19/03/2020**: [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) - Easy
 - [x] **19/03/20202**: [To Lower Case](https://leetcode.com/problems/to-lower-case/) - Easy
 - [x] **19/03/2020**: [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) - Easy
-- [x] **19/03/2020**: [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) - Easy
-- [ ]  **20/03/2020**: [Two Sum](https://leetcode.com/problems/two-sum/)
-- [ ] **20/02/2020**: [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [] **19/03/2020**: [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) - Easy
+- [x]  **20/03/2020**: [Two Sum](https://leetcode.com/problems/two-sum/)
+- [x] **20/02/2020**: [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [ ] **20/02/20202**: [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [ ] **20/02/2020**: [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [ ] **20/02/2020**: [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
